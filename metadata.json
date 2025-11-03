@@ -1,0 +1,5 @@
+{
+  "name": "Equalizzatore Audio Web",
+  "description": "Un'applicazione per applicare profili di equalizzazione AutoEQ alla musica in tempo reale, funzionante su qualsiasi browser moderno su Mac, Windows, iOS e Android.",
+  "requestFramePermissions": []
+}
